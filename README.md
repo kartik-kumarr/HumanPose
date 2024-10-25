@@ -28,7 +28,7 @@ Follow the instructions given in the [github page](https://github.com/ollama/oll
       $ ollama run llava
       $ ollama run llama3.2
 
-Then run ollama using:
+Then start ollama using:
 
       $ ollama serve
 
