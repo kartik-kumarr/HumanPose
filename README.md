@@ -1,5 +1,5 @@
-# A React and Express template with Node.js as server.
-A simple template with react as frontend and Node.js as backend.
+# LLAVA(7B) + LLAMA3.2(3B)
+A simple template with react as frontend and Node.js as backend with llava as Image desciptor and analysing the desciption using llama3.2.
 ---
 ## Requirements
 
