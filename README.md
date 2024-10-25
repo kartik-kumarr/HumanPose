@@ -29,6 +29,7 @@ Follow the instructions given in the [github page](https://github.com/ollama/oll
       $ ollama run llama3.2
 
 Then run ollama using:
+
       $ ollama serve
 
 If the installation was successful, you should be able to run the following command.
