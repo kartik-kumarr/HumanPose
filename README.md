@@ -21,6 +21,16 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 - #### Other Operating Systems
   You can find more information about the installation on the [official Node.js website](https://nodejs.org/) and the [official NPM website](https://npmjs.org/).
 
+
+## Install Ollama
+Follow the instructions given in the [github page](https://github.com/ollama/ollama) as per your system. Then install both LLamba2 and Phi2 using following commands:
+
+      $ ollama run llava
+      $ ollama run llama3.2
+
+Then run ollama using:
+      $ ollama serve
+
 If the installation was successful, you should be able to run the following command.
 
     $ node --version
